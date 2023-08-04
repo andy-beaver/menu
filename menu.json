@@ -1,0 +1,37 @@
+{
+  "Monday": {
+    "Breakfast": "Eggs and Toast",
+    "Lunch": "Chicken Caesar Salad",
+    "Dinner": "Spaghetti with Marinara Sauce"
+  },
+  "Tuesday": {
+    "Breakfast": "Yogurt with Fruits",
+    "Lunch": "Grilled Veggie Wrap",
+    "Dinner": "Baked Salmon with Rice"
+  },
+  "Wednesday": {
+    "Breakfast": "Pancakes with Maple Syrup",
+    "Lunch": "Tomato Basil Soup with Grilled Cheese",
+    "Dinner": "Stir-Fried Tofu with Vegetables"
+  },
+  "Thursday": {
+    "Breakfast": "Smoothie Bowl",
+    "Lunch": "Quinoa Salad with Avocado",
+    "Dinner": "Beef Tacos with Guacamole"
+  },
+  "Friday": {
+    "Breakfast": "Omelette with Spinach and Cheese",
+    "Lunch": "Mediterranean Pasta Salad",
+    "Dinner": "Chicken Stir-Fry with Noodles"
+  },
+  "Saturday": {
+    "Breakfast": "Waffles with Berries",
+    "Lunch": "Caprese Sandwich",
+    "Dinner": "Grilled Steak with Mashed Potatoes"
+  },
+  "Sunday": {
+    "Breakfast": "Bagels with Cream Cheese",
+    "Lunch": "Greek Salad",
+    "Dinner": "Shrimp Scampi with Garlic Bread"
+  }
+}
